@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <floor val='1'>
+  <book category="crime">
+    <title>Death on the Nile</title>
+    <author>Agatha Christie</author>
+    <year>1937</year>
+    <country>United Kingdom</country>
+  </book>
+  <book category="crime">
+    <title>The Hound of the Baskervilles</title>
+    <author>Arthur Conan Doyle</author>
+    <year>1902</year>
+    <country>United Kingdom</country>
+  </book>
+  </floor>
+  <floor val='2'>
+  <book category="psychology">
+    <title>Psychology and Alchemy</title>
+    <author>Carl Gustav Jung</author>
+    <year>1944</year>
+    <country>Germany</country>
+  </book>
+  <book category="novel">
+    <title>The Castel</title>
+    <author>Franz Kafka</author>
+    <year>1926</year>
+    <country>Germany</country>
+  </book>
+  </floor>
+</library>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <ID>001276A</ID>
+    <Title>The Rise of the Falcon</Title>
+    <Author>John Admiral</Author>
+    <PublicationDate>2018-04-25 00:00:00</PublicationDate>
+  </row>
+  <row>
+    <index>1</index>
+    <ID>023125B</ID>
+    <Title>Controlled mind</Title>
+    <Author>Robert Greens</Author>
+    <PublicationDate>2016-08-28 00:00:00</PublicationDate>
+  </row>
+  <row>
+    <index>2</index>
+    <ID>005556E</ID>
+    <Title>Only love remains</Title>
+    <Author>Greta Blooming</Author>
+    <PublicationDate>2015-02-17 00:00:00</PublicationDate>
+  </row>
+</data>
